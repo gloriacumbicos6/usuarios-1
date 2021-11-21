@@ -1,0 +1,6 @@
+C:\Users\DELL LAT7240\source\repos\usuarios\AccesoDatos.ClassLibrary\bin\Debug\AccesoDatos.ClassLibrary.dll.config
+C:\Users\DELL LAT7240\source\repos\usuarios\AccesoDatos.ClassLibrary\bin\Debug\AccesoDatos.ClassLibrary.dll
+C:\Users\DELL LAT7240\source\repos\usuarios\AccesoDatos.ClassLibrary\bin\Debug\AccesoDatos.ClassLibrary.pdb
+C:\Users\DELL LAT7240\source\repos\usuarios\AccesoDatos.ClassLibrary\obj\Debug\AccesoDatos.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL LAT7240\source\repos\usuarios\AccesoDatos.ClassLibrary\obj\Debug\AccesoDatos.ClassLibrary.dll
+C:\Users\DELL LAT7240\source\repos\usuarios\AccesoDatos.ClassLibrary\obj\Debug\AccesoDatos.ClassLibrary.pdb
